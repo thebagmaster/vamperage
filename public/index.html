@@ -1,0 +1,126 @@
+<!-- index.html -->
+<!doctype html>
+
+<!-- ASSIGN OUR ANGULAR MODULE -->
+<html ng-app="login">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1"><!-- Optimize mobile viewport -->
+
+    <title>Vamperage</title>
+
+    <!-- SCROLLS -->
+    <link rel="stylesheet" href="./bower_components/bootstrap/dist/css/bootstrap.min.css"><!-- load bootstrap -->
+    <link rel="stylesheet" href="./css/style.css"><!-- My Style -->
+
+    <!-- SPELLS -->
+    <script src="./bower_components/jquery/dist/jquery.min.js"></script><!-- load jquery -->
+    <script src="./bower_components/angular/angular.min.js"></script><!-- load angular -->
+    <script src="/bower_components/bootstrap/dist/js/bootstrap.min.js"></script>
+
+    <script src="./js/login.js"></script>
+    <script src="./js/char.js"></script>
+    <script src="./js/game.js"></script>
+    <script src="./js/core.js"></script>
+
+</head>
+
+<body ng-controller="mainController">
+  <nav class="navbar navbar-default">
+        <div class="container-fluid">
+          <div class="navbar-header">
+            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar">
+              <span class="sr-only">Toggle navigation</span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+              <span class="icon-bar"></span>
+            </button>
+            <a class="navbar-brand" href="/">Vamperage</a>
+          </div>
+          <div id="navbar" class="navbar-collapse collapse">
+            <ul class="nav navbar-nav">
+              <li class="active"><a href="/">Home</a></li>
+            </ul>
+            <form id="login-form" class="form-inline my-2 my-lg-0 navbar-form navbar-right">
+              <input type="text" class="form-control mr-sm-2" placeholder="username" ng-model="formData.username">
+              <input type="password" class="form-control mr-sm-2" placeholder="password" ng-model="formData.password">
+              <button class="btn btn-outline-success my-2 my-sm-0" type="submit" ng-click="login()">Login</button>
+            </form>
+            <div id="logged-form" class="form-inline my-2 my-lg-0 navbar-form navbar-right">
+              <form>
+                <button type="submit" class="btn btn-outline-success my-2 my-sm-0" ng-click="logout()">logout</button>
+              </form>
+            </div>
+            <ul class="nav navbar-nav navbar-right">
+              <li><a>{{ formData.username ? "Welcome, " + formData.username : "" }} </a></li>
+            </ul>
+          </div><!--/.nav-collapse -->
+        </div><!--/.container-fluid -->
+      </nav>
+
+      <div class="panel panel-default logged">
+        <div class="panel-heading">Games</div>
+        <div class="panel-body pane-games">
+          <div class="btn-group" role="group" aria-label="charmanip">
+            <button type="button" class="btn btn-default" onclick="delgame()">Delete Game</button>
+            <button type="button" class="btn btn-default" onclick="savegame()">Save Game</button>
+            <button type="button" class="btn btn-default" onclick="newgame()">New Game</button>
+          </div>
+          <div class="list-group list-group-games">
+
+          </div>
+          <div class="panel panel-default panel-newgame">
+            <div class="panel-heading">Game</div>
+            <div class="panel-body">
+              <div class="input-group input-sm">
+                <span class="input-group-addon fixedw">Name</span>
+                <input type="text" class="form-control gamename">
+              </div>
+              <div class="input-group input-sm">
+                <span class="input-group-addon fixedw">Story Tellers</span>
+                <select size=4 class="form-control gamests"></select>
+              </div>
+              <div class="input-group input-sm">
+                <span class="input-group-addon fixedw">Characters</span>
+                <select size=4 class="form-control gamechars"></select>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="panel-heading">Characters</div>
+        <div class="panel-body pane-chars">
+          <div class="btn-group" role="group" aria-label="charmanip">
+            <button type="button" class="btn btn-default" onclick="delchar()">Delete Character</button>
+            <button type="button" class="btn btn-default" onclick="savechar()">Save Character</button>
+            <button type="button" class="btn btn-default" onclick="newchar()">New Character</button>
+          </div>
+          <div class="list-group list-group-chars">
+
+          </div>
+          <div class="panel panel-default panel-newchar">
+            <div class="panel-heading">Character</div>
+            <form id="char-form">
+              <div class="panel-body">
+                <ul id="chartabs" class="nav nav-tabs" role="tablist">
+                </ul>
+                <div id="charpanels" class="tab-content">
+                </div>
+              </div>
+            </form>
+          </div>
+      </div>
+    </div>
+
+    <div class="panel panel-default">
+      <div class="panel-heading">Feedback</div>
+      <div class="panel-body pane-feedback">
+        <div class="input-group" role="group" aria-label="charmanip">
+          <textarea id='feedback' class='form-control' rows="6" placeholder="What's up?" required></textarea>
+          <button class='form-control' onclick=submitFeedback()>Submit</button>
+        </div>
+      </div>
+    </div>
+
+</body>
+</html>

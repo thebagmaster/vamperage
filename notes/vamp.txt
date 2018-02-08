@@ -1,0 +1,114 @@
+Biggy Vamp Project
+
+ESSENTIALS:
+
+1) Online DB - Preferably SQL backend, probably PHP front end, but that's negotiable
+2) Data validation, but still allow for custom entries - Basically, a system to enforce a relatively universal way of referencing the same items. Without something like this, data mining/reporting is going to be all but worthless. This would include an easy way for people to input new items, probably with two scopes - global and local. We can dig into it more later.
+3) Robust reporting - Both on a global and a local scope.
+4) Permissions - Some basic scope of permissions is going to be needed for different roles. Who can edit, who can do reporting. Preferably down to individual sheet items - for example, allow coords to report on basic sheet info (Clan/Tribe/Tradition/etc, R&U items, total XP, Generation/Rank/whatever, without being able to see the full sheet)
+5) Nice looking output to RTF or PDF
+6) Expenditure tracking
+
+OPTIONAL:
+1) Design it with a more modular framework so it doesn't work JUST for classic MET. Tweak some of the XP cost calculations and how attributes are handled, and suddenly it would work for Tabletop or BNS MET or anything in the future.
+2) Design it as a multi-site installation with communication/API between them. Deliver it in a package almost like wordpress/phpBB or something similar. That way each game owns their own data, but org-level reporting is still possible.
+3) "Click-approval" XP spends. Players submit their XP requests, STs can click yes/no/edit on each item to quickly approve them and add them to the sheet, deny the expenditure, or change the amount of XP required.
+4) Rumors / Actions / Location / Influence tracking
+5) More robust status / renown / etc tracking (believe me, the renown would be a HUGE godsend for Garou games)
+
+Future:
+    print equipment to 3x5
+
+Characters have home games (approved by storytellers)
+games have multiple / changing storyteller
+only storytellers can add npcs to game
+storytellers can succed npcs to players
+storytellers can modify xp enmasse
+
+datatypes
+    bubble int
+      level int
+      toBubbles()
+    level
+      level int
+    levelcost
+      level int
+      cost int
+    cost
+      cost int
+    xp_entry
+        change mtable xp_mods
+        num int
+        date now() oncreate time
+        reason mtable xp_reason
+
+Game Schema
+    storytellers
+    characters
+
+Vampire Schema
+  identity
+    clan table Clan
+    sect table Sect
+    title table Title
+    coterie/Pack string
+    generation number
+    sire string suggested mtable characters
+    blood lookup generation table
+        bubble int
+    aura table Aura
+  specifics
+    status table Status some specific list
+        level int
+    derangements table Derangements list
+    disciplines table Disciplines multilevel list
+    rituals table Rituals multilevel list
+    blood_bonds mtable characters of game list
+        level int
+    moral_path table Path just 1
+    moral_trait bubble int
+    conscience bubble int
+    instinct bubble int
+    courage bubble int
+
+Character Schema
+game mtable games
+homegame mtable games
+identity
+    creature mtable creatures
+    player string username
+    status table Status, Character
+    nature table Archetypes
+    demeanor table Archetypes
+    npc bool
+    willpower lookup generation table min/max bubble int
+    start_date now() oncreate time
+    last_modified now() onupdate time
+xp
+    unspent int
+    earned int
+
+    recent_purchases
+        modifications (update)
+
+    xp_entries xp_entry
+traits
+    physical
+        positive table Physical list levelcost 1
+        negative table Physical, Negative list levelcost 1
+    social
+        positive table Social list levelcost 1
+        negative table Social, Negative list levelcost 1
+    mental
+        positive table Mental list levelcost 1
+        negative table Mental, Negative list levelcost 1
+generals
+  abilities table Abilities some specific and custom multilevel list levelcost 1
+  backgrounds table Backgrounds some specific list levelcost 1
+  influences table Influences list levelcost 1
+  merits table Merits some specific list cost
+  flaws table Flaws some specific list cost
+  health_levels table Health Levels list level
+
+notes string
+biography string

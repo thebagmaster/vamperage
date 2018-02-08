@@ -1,0 +1,94 @@
+show dbs
+use jukes
+show collections
+db.createCollection("jukes")
+db.showcollections
+show collections
+show dbs
+use jukes
+db.find()
+show dbs
+use jukes
+db.show
+db.collections.findall()
+db.collections.find()
+;
+db.show()
+db.collection.find
+db.collection.find();
+show dbs
+use vamp
+db.collection.find()
+;
+db.collection.find
+db.collection.find();
+show collections
+db.collection.find();
+show collections
+show dbs
+use jukes
+show collections
+db.jukes.find()
+use jukes
+db.jukes.find()
+db.jukes.find().forEach(function(e,i){e.name=e.name.replace(/[^\w]/g,''); db.jukes.save(e);});
+db.jukes.find()
+use jukes
+db.jukes.find()
+use jukes
+db.jukes.find()
+it
+use jukes
+use jukes
+db.jukes.find()
+it
+use jukes
+db.jukes.find()
+it
+use jukes
+db.jukes.find()
+it
+db.jukes_q.find()
+db.jukes.find()
+use jukes
+db.jukes_q.find()
+use jukes
+db.jukes_q.find()
+db.jukes.find()
+it
+use jukes
+use jukes
+db.jukes.find()
+db.jukes_n.find()
+db.jukes_n.insert({id:'asdasd'});
+db.jukes_n.find()
+use jukes
+db.jukes_n.find()
+:q
+quit
+use jukes
+db.jukes_n.find()
+:q
+use jukes
+db.jukes_n.find()
+use jukes
+db.jukes.find()
+it
+db.jukes.update({_id:ObjectId("5a6677bd110fa408db4bcca1")},{$set:{url:"DyMMEmwFQUE"}});
+db.jukes.update({_id:ObjectId("5a6677e9110fa408db4bcca2")},{$set:{url:"Ki78MK9JywE"}});
+db.jukes.update({_id:ObjectId("5a66786d110fa408db4bcca3")},{$set:{url:"RiEIToOWr64"}});
+db.jukes.find()
+it
+use jukes
+db.jukes.update({},{$set:{}},{upsert:false,multi:true});
+db.jukes.update({},{$set:{"rng":0}},{upsert:false,multi:true});
+use jukes
+db.find();
+db.jukes.find();
+it
+db.jukes.find(rng:1);
+db.jukes.find({rng:1});
+use jukes
+db.jukes.find();
+db.jukes.find({rng:1});
+db.jukes.find({rng:2});

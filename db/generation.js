@@ -1,0 +1,16 @@
+print("started");
+var db = connect("127.0.0.1:27017/lookup");
+print("bye old data");
+db.generation.remove();
+print("start insert");
+db.generation.insert({'generation':13,'traits':10,'abilities':5,'blood':10,'willpower':{'min':2, 'max':6}});
+db.generation.insert({'generation':12,'traits':10,'abilities':5,'blood':11,'willpower':{'min':2, 'max':8}});
+db.generation.insert({'generation':11,'traits':11,'abilities':5,'blood':12,'willpower':{'min':4, 'max':8}});
+db.generation.insert({'generation':10,'traits':12,'abilities':5,'blood':13,'willpower':{'min':4, 'max':10}});
+db.generation.insert({'generation':9, 'traits':13,'abilities':5,'blood':14,'willpower':{'min':6, 'max':10}});
+db.generation.insert({'generation':8, 'traits':14,'abilities':5,'blood':15,'willpower':{'min':6, 'max':12}});
+db.generation.insert({'generation':7, 'traits':16,'abilities':6,'blood':20,'willpower':{'min':7, 'max':14}});
+db.generation.insert({'generation':6, 'traits':18,'abilities':7,'blood':30,'willpower':{'min':8, 'max':16}});
+db.generation.insert({'generation':5, 'traits':20,'abilities':8,'blood':40,'willpower':{'min':9, 'max':18}});
+db.generation.insert({'generation':4, 'traits':25,'abilities':9,'blood':50,'willpower':{'min':10,'max':20}});
+db.generation.insert({'generation':3, 'traits':30,'abilities':9001,blood:9001,willpower:{min:9000,max:9001}});

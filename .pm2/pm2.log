@@ -1,0 +1,499 @@
+2018-01-04 16:01:51: ===============================================================================
+2018-01-04 16:01:51: --- New PM2 Daemon started ----------------------------------------------------
+2018-01-04 16:01:51: Time                 : Thu Jan 04 2018 16:01:51 GMT+0000 (UTC)
+2018-01-04 16:01:51: PM2 version          : 2.9.1
+2018-01-04 16:01:51: Node.js version      : 9.0.0
+2018-01-04 16:01:51: Current arch         : x64
+2018-01-04 16:01:51: PM2 home             : /home/ubuntu/.pm2
+2018-01-04 16:01:51: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2018-01-04 16:01:51: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2018-01-04 16:01:51: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2018-01-04 16:01:51: Application log path : /home/ubuntu/.pm2/logs
+2018-01-04 16:01:51: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2018-01-04 16:01:51: Concurrent actions   : 2
+2018-01-04 16:01:51: SIGTERM timeout      : 1600
+2018-01-04 16:01:51: ===============================================================================
+2018-01-04 16:01:51: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-04 16:01:51: App name:server id:0 online
+2018-01-09 20:37:10: pm2 has been killed by signal, dumping process list before exit...
+2018-01-09 20:37:10: Deleting process 0
+2018-01-09 20:37:10: Stopping app:server id:0
+2018-01-09 20:37:10: pm2 has been killed by signal, dumping process list before exit...
+2018-01-09 20:37:10: Deleting process 0
+2018-01-09 20:37:10: Stopping app:server id:0
+2018-01-09 20:37:10: App [server] with id [0] and pid [20050], exited with code [0] via signal [SIGHUP]
+2018-01-09 20:37:10: pid=20050 msg=process killed
+2018-01-09 20:37:10: [PM2] Exited peacefully
+2018-01-09 20:38:26: ===============================================================================
+2018-01-09 20:38:26: --- New PM2 Daemon started ----------------------------------------------------
+2018-01-09 20:38:26: Time                 : Tue Jan 09 2018 20:38:26 GMT+0000 (UTC)
+2018-01-09 20:38:26: PM2 version          : 2.9.1
+2018-01-09 20:38:26: Node.js version      : 9.0.0
+2018-01-09 20:38:26: Current arch         : x64
+2018-01-09 20:38:26: PM2 home             : /home/ubuntu/.pm2
+2018-01-09 20:38:26: PM2 PID file         : /home/ubuntu/.pm2/pm2.pid
+2018-01-09 20:38:26: RPC socket file      : /home/ubuntu/.pm2/rpc.sock
+2018-01-09 20:38:26: BUS socket file      : /home/ubuntu/.pm2/pub.sock
+2018-01-09 20:38:26: Application log path : /home/ubuntu/.pm2/logs
+2018-01-09 20:38:26: Process dump file    : /home/ubuntu/.pm2/dump.pm2
+2018-01-09 20:38:26: Concurrent actions   : 2
+2018-01-09 20:38:26: SIGTERM timeout      : 1600
+2018-01-09 20:38:26: ===============================================================================
+2018-01-09 20:38:27: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-09 20:38:27: App name:server id:0 online
+2018-01-10 16:28:25: Stopping app:server id:0
+2018-01-10 16:28:25: App [server] with id [0] and pid [1685], exited with code [0] via signal [SIGINT]
+2018-01-10 16:28:25: pid=1685 msg=process killed
+2018-01-10 16:28:25: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:28:25: App name:server id:0 online
+2018-01-10 16:30:07: Stopping app:server id:0
+2018-01-10 16:30:07: App [server] with id [0] and pid [10492], exited with code [0] via signal [SIGINT]
+2018-01-10 16:30:07: pid=10492 msg=process killed
+2018-01-10 16:30:07: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:30:07: App name:server id:0 online
+2018-01-10 16:30:48: Stopping app:server id:0
+2018-01-10 16:30:48: App [server] with id [0] and pid [10549], exited with code [0] via signal [SIGINT]
+2018-01-10 16:30:49: pid=10549 msg=process killed
+2018-01-10 16:30:49: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:30:49: App name:server id:0 online
+2018-01-10 16:32:59: Stopping app:server id:0
+2018-01-10 16:32:59: App [server] with id [0] and pid [10598], exited with code [0] via signal [SIGINT]
+2018-01-10 16:32:59: pid=10598 msg=process killed
+2018-01-10 16:32:59: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:32:59: App name:server id:0 online
+2018-01-10 16:33:47: Stopping app:server id:0
+2018-01-10 16:33:47: App [server] with id [0] and pid [10667], exited with code [0] via signal [SIGINT]
+2018-01-10 16:33:47: pid=10667 msg=process killed
+2018-01-10 16:33:47: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:33:47: App name:server id:0 online
+2018-01-10 16:34:27: Stopping app:server id:0
+2018-01-10 16:34:27: App [server] with id [0] and pid [10710], exited with code [0] via signal [SIGINT]
+2018-01-10 16:34:27: pid=10710 msg=process killed
+2018-01-10 16:34:27: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:34:27: App name:server id:0 online
+2018-01-10 16:37:24: Stopping app:server id:0
+2018-01-10 16:37:24: App [server] with id [0] and pid [10760], exited with code [0] via signal [SIGINT]
+2018-01-10 16:37:24: pid=10760 msg=process killed
+2018-01-10 16:37:24: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:37:24: App name:server id:0 online
+2018-01-10 16:38:20: Stopping app:server id:0
+2018-01-10 16:38:20: App [server] with id [0] and pid [10837], exited with code [0] via signal [SIGINT]
+2018-01-10 16:38:20: pid=10837 msg=process killed
+2018-01-10 16:38:20: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:38:20: App name:server id:0 online
+2018-01-10 16:45:03: Stopping app:server id:0
+2018-01-10 16:45:03: App [server] with id [0] and pid [10874], exited with code [0] via signal [SIGINT]
+2018-01-10 16:45:03: pid=10874 msg=process killed
+2018-01-10 16:45:03: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:03: App name:server id:0 online
+2018-01-10 16:45:03: App [server] with id [0] and pid [10939], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:03: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:03: App name:server id:0 online
+2018-01-10 16:45:04: App [server] with id [0] and pid [10949], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:04: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:04: App name:server id:0 online
+2018-01-10 16:45:04: App [server] with id [0] and pid [10959], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:04: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:04: App name:server id:0 online
+2018-01-10 16:45:05: App [server] with id [0] and pid [10969], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:05: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:05: App name:server id:0 online
+2018-01-10 16:45:05: App [server] with id [0] and pid [10979], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:05: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:05: App name:server id:0 online
+2018-01-10 16:45:05: App [server] with id [0] and pid [10989], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:05: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:05: App name:server id:0 online
+2018-01-10 16:45:06: App [server] with id [0] and pid [10999], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:06: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:06: App name:server id:0 online
+2018-01-10 16:45:06: App [server] with id [0] and pid [11009], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:06: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:06: App name:server id:0 online
+2018-01-10 16:45:07: App [server] with id [0] and pid [11019], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:07: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:07: App name:server id:0 online
+2018-01-10 16:45:07: App [server] with id [0] and pid [11029], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:07: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:07: App name:server id:0 online
+2018-01-10 16:45:08: App [server] with id [0] and pid [11039], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:08: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:08: App name:server id:0 online
+2018-01-10 16:45:08: App [server] with id [0] and pid [11049], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:08: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:08: App name:server id:0 online
+2018-01-10 16:45:09: App [server] with id [0] and pid [11059], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:09: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:09: App name:server id:0 online
+2018-01-10 16:45:09: App [server] with id [0] and pid [11069], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:09: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:09: App name:server id:0 online
+2018-01-10 16:45:10: App [server] with id [0] and pid [11079], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:10: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:10: App name:server id:0 online
+2018-01-10 16:45:10: App [server] with id [0] and pid [11089], exited with code [1] via signal [SIGINT]
+2018-01-10 16:45:10: Script /home/ubuntu/server.js had too many unstable restarts (16). Stopped. "errored"
+2018-01-10 16:45:57: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:45:57: App name:server id:0 online
+2018-01-10 16:46:24: Stopping app:server id:0
+2018-01-10 16:46:24: App [server] with id [0] and pid [11113], exited with code [0] via signal [SIGINT]
+2018-01-10 16:46:24: pid=11113 msg=process killed
+2018-01-10 16:46:24: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:46:24: App name:server id:0 online
+2018-01-10 16:47:27: Stopping app:server id:0
+2018-01-10 16:47:27: App [server] with id [0] and pid [11154], exited with code [0] via signal [SIGINT]
+2018-01-10 16:47:27: pid=11154 msg=process killed
+2018-01-10 16:47:27: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:47:27: App name:server id:0 online
+2018-01-10 16:48:51: Stopping app:server id:0
+2018-01-10 16:48:51: App [server] with id [0] and pid [11196], exited with code [0] via signal [SIGINT]
+2018-01-10 16:48:51: pid=11196 msg=process killed
+2018-01-10 16:48:51: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:48:51: App name:server id:0 online
+2018-01-10 16:49:49: Stopping app:server id:0
+2018-01-10 16:49:49: App [server] with id [0] and pid [11243], exited with code [0] via signal [SIGINT]
+2018-01-10 16:49:49: pid=11243 msg=process killed
+2018-01-10 16:49:49: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:49:49: App name:server id:0 online
+2018-01-10 16:50:39: Stopping app:server id:0
+2018-01-10 16:50:39: App [server] with id [0] and pid [11294], exited with code [0] via signal [SIGINT]
+2018-01-10 16:50:40: pid=11294 msg=process killed
+2018-01-10 16:50:40: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:50:40: App name:server id:0 online
+2018-01-10 16:51:29: Stopping app:server id:0
+2018-01-10 16:51:29: App [server] with id [0] and pid [11337], exited with code [0] via signal [SIGINT]
+2018-01-10 16:51:30: pid=11337 msg=process killed
+2018-01-10 16:51:30: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:51:30: App name:server id:0 online
+2018-01-10 16:52:47: Stopping app:server id:0
+2018-01-10 16:52:47: App [server] with id [0] and pid [11372], exited with code [0] via signal [SIGINT]
+2018-01-10 16:52:48: pid=11372 msg=process killed
+2018-01-10 16:52:48: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:52:48: App name:server id:0 online
+2018-01-10 16:53:42: Stopping app:server id:0
+2018-01-10 16:53:42: App [server] with id [0] and pid [11420], exited with code [0] via signal [SIGINT]
+2018-01-10 16:53:42: pid=11420 msg=process killed
+2018-01-10 16:53:42: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:53:42: App name:server id:0 online
+2018-01-10 16:54:08: Stopping app:server id:0
+2018-01-10 16:54:08: App [server] with id [0] and pid [11455], exited with code [0] via signal [SIGINT]
+2018-01-10 16:54:08: pid=11455 msg=process killed
+2018-01-10 16:54:08: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:54:08: App name:server id:0 online
+2018-01-10 16:54:43: Stopping app:server id:0
+2018-01-10 16:54:43: App [server] with id [0] and pid [11490], exited with code [0] via signal [SIGINT]
+2018-01-10 16:54:43: pid=11490 msg=process killed
+2018-01-10 16:54:43: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 16:54:43: App name:server id:0 online
+2018-01-10 17:00:51: Stopping app:server id:0
+2018-01-10 17:00:51: App [server] with id [0] and pid [11532], exited with code [0] via signal [SIGINT]
+2018-01-10 17:00:52: pid=11532 msg=process killed
+2018-01-10 17:00:52: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 17:00:52: App name:server id:0 online
+2018-01-10 17:03:34: Stopping app:server id:0
+2018-01-10 17:03:34: App [server] with id [0] and pid [11730], exited with code [0] via signal [SIGINT]
+2018-01-10 17:03:34: pid=11730 msg=process killed
+2018-01-10 17:03:34: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 17:03:34: App name:server id:0 online
+2018-01-10 17:25:37: Stopping app:server id:0
+2018-01-10 17:25:37: App [server] with id [0] and pid [11836], exited with code [0] via signal [SIGINT]
+2018-01-10 17:25:38: pid=11836 msg=process killed
+2018-01-10 17:25:38: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 17:25:38: App name:server id:0 online
+2018-01-10 17:27:27: Stopping app:server id:0
+2018-01-10 17:27:27: App [server] with id [0] and pid [12088], exited with code [0] via signal [SIGINT]
+2018-01-10 17:27:27: pid=12088 msg=process killed
+2018-01-10 17:27:27: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 17:27:27: App name:server id:0 online
+2018-01-10 17:28:08: Stopping app:server id:0
+2018-01-10 17:28:08: App [server] with id [0] and pid [12147], exited with code [0] via signal [SIGINT]
+2018-01-10 17:28:08: pid=12147 msg=process killed
+2018-01-10 17:28:08: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 17:28:08: App name:server id:0 online
+2018-01-10 17:29:12: Stopping app:server id:0
+2018-01-10 17:29:12: App [server] with id [0] and pid [12189], exited with code [0] via signal [SIGINT]
+2018-01-10 17:29:13: pid=12189 msg=process killed
+2018-01-10 17:29:13: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 17:29:13: App name:server id:0 online
+2018-01-10 19:01:35: Stopping app:server id:0
+2018-01-10 19:01:35: App [server] with id [0] and pid [12241], exited with code [0] via signal [SIGINT]
+2018-01-10 19:01:35: pid=12241 msg=process killed
+2018-01-10 19:01:35: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 19:01:35: App name:server id:0 online
+2018-01-10 19:04:43: Stopping app:server id:0
+2018-01-10 19:04:43: App [server] with id [0] and pid [12935], exited with code [0] via signal [SIGINT]
+2018-01-10 19:04:43: pid=12935 msg=process killed
+2018-01-10 19:04:43: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 19:04:43: App name:server id:0 online
+2018-01-10 19:11:08: Stopping app:server id:0
+2018-01-10 19:11:08: App [server] with id [0] and pid [13018], exited with code [0] via signal [SIGINT]
+2018-01-10 19:11:09: pid=13018 msg=process killed
+2018-01-10 19:11:09: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 19:11:09: App name:server id:0 online
+2018-01-10 19:11:43: Stopping app:server id:0
+2018-01-10 19:11:43: App [server] with id [0] and pid [13124], exited with code [0] via signal [SIGINT]
+2018-01-10 19:11:43: pid=13124 msg=process killed
+2018-01-10 19:11:43: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 19:11:43: App name:server id:0 online
+2018-01-10 19:21:30: Stopping app:server id:0
+2018-01-10 19:21:30: App [server] with id [0] and pid [13183], exited with code [0] via signal [SIGINT]
+2018-01-10 19:21:30: pid=13183 msg=process killed
+2018-01-10 19:21:30: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-10 19:21:30: App name:server id:0 online
+2018-01-18 16:20:11: App [server] with id [0] and pid [13990], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:11: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:11: App name:server id:0 online
+2018-01-18 16:20:16: App [server] with id [0] and pid [343], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:16: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:16: App name:server id:0 online
+2018-01-18 16:20:17: App [server] with id [0] and pid [370], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:17: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:17: App name:server id:0 online
+2018-01-18 16:20:30: App [server] with id [0] and pid [385], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:30: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:30: App name:server id:0 online
+2018-01-18 16:20:31: App [server] with id [0] and pid [436], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:31: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:31: App name:server id:0 online
+2018-01-18 16:20:34: App [server] with id [0] and pid [451], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:34: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:34: App name:server id:0 online
+2018-01-18 16:20:35: App [server] with id [0] and pid [477], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:35: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:35: App name:server id:0 online
+2018-01-18 16:20:51: App [server] with id [0] and pid [493], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:51: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:51: App name:server id:0 online
+2018-01-18 16:20:51: App [server] with id [0] and pid [527], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:51: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:51: App name:server id:0 online
+2018-01-18 16:20:52: App [server] with id [0] and pid [542], exited with code [1] via signal [SIGINT]
+2018-01-18 16:20:52: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:20:52: App name:server id:0 online
+2018-01-18 16:44:32: App [server] with id [0] and pid [558], exited with code [1] via signal [SIGINT]
+2018-01-18 16:44:32: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:44:32: App name:server id:0 online
+2018-01-18 16:44:34: App [server] with id [0] and pid [1074], exited with code [1] via signal [SIGINT]
+2018-01-18 16:44:34: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:44:34: App name:server id:0 online
+2018-01-18 16:44:35: App [server] with id [0] and pid [1089], exited with code [1] via signal [SIGINT]
+2018-01-18 16:44:35: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:44:35: App name:server id:0 online
+2018-01-18 16:44:36: App [server] with id [0] and pid [1104], exited with code [1] via signal [SIGINT]
+2018-01-18 16:44:36: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:44:36: App name:server id:0 online
+2018-01-18 16:44:43: App [server] with id [0] and pid [1121], exited with code [1] via signal [SIGINT]
+2018-01-18 16:44:43: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:44:43: App name:server id:0 online
+2018-01-18 16:44:45: App [server] with id [0] and pid [1161], exited with code [1] via signal [SIGINT]
+2018-01-18 16:44:45: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:44:45: App name:server id:0 online
+2018-01-18 16:44:46: App [server] with id [0] and pid [1183], exited with code [1] via signal [SIGINT]
+2018-01-18 16:44:46: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:44:46: App name:server id:0 online
+2018-01-18 16:44:47: App [server] with id [0] and pid [1205], exited with code [1] via signal [SIGINT]
+2018-01-18 16:44:47: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 16:44:47: App name:server id:0 online
+2018-01-18 17:29:57: App [server] with id [0] and pid [1226], exited with code [1] via signal [SIGINT]
+2018-01-18 17:29:57: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 17:29:57: App name:server id:0 online
+2018-01-18 17:29:58: App [server] with id [0] and pid [1380], exited with code [1] via signal [SIGINT]
+2018-01-18 17:29:58: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 17:29:58: App name:server id:0 online
+2018-01-18 17:30:11: App [server] with id [0] and pid [1395], exited with code [1] via signal [SIGINT]
+2018-01-18 17:30:11: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 17:30:11: App name:server id:0 online
+2018-01-18 17:30:12: App [server] with id [0] and pid [1429], exited with code [1] via signal [SIGINT]
+2018-01-18 17:30:12: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 17:30:12: App name:server id:0 online
+2018-01-18 18:43:09: App [server] with id [0] and pid [1444], exited with code [1] via signal [SIGINT]
+2018-01-18 18:43:09: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:43:09: App name:server id:0 online
+2018-01-18 18:43:10: App [server] with id [0] and pid [1607], exited with code [1] via signal [SIGINT]
+2018-01-18 18:43:10: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:43:10: App name:server id:0 online
+2018-01-18 18:49:37: App [server] with id [0] and pid [1622], exited with code [1] via signal [SIGINT]
+2018-01-18 18:49:37: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:49:37: App name:server id:0 online
+2018-01-18 18:49:38: App [server] with id [0] and pid [1667], exited with code [1] via signal [SIGINT]
+2018-01-18 18:49:38: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:49:38: App name:server id:0 online
+2018-01-18 18:49:39: App [server] with id [0] and pid [1692], exited with code [1] via signal [SIGINT]
+2018-01-18 18:49:39: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:49:39: App name:server id:0 online
+2018-01-18 18:49:40: App [server] with id [0] and pid [1707], exited with code [1] via signal [SIGINT]
+2018-01-18 18:49:40: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:49:40: App name:server id:0 online
+2018-01-18 18:51:49: App [server] with id [0] and pid [1722], exited with code [1] via signal [SIGINT]
+2018-01-18 18:51:49: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:51:49: App name:server id:0 online
+2018-01-18 18:51:51: App [server] with id [0] and pid [2098], exited with code [1] via signal [SIGINT]
+2018-01-18 18:51:51: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:51:51: App name:server id:0 online
+2018-01-18 18:51:52: App [server] with id [0] and pid [2119], exited with code [1] via signal [SIGINT]
+2018-01-18 18:51:52: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:51:52: App name:server id:0 online
+2018-01-18 18:52:08: App [server] with id [0] and pid [2139], exited with code [1] via signal [SIGINT]
+2018-01-18 18:52:08: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:52:08: App name:server id:0 online
+2018-01-18 18:52:09: App [server] with id [0] and pid [2164], exited with code [1] via signal [SIGINT]
+2018-01-18 18:52:09: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:52:09: App name:server id:0 online
+2018-01-18 18:52:27: App [server] with id [0] and pid [2179], exited with code [1] via signal [SIGINT]
+2018-01-18 18:52:27: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:52:27: App name:server id:0 online
+2018-01-18 18:52:28: App [server] with id [0] and pid [2212], exited with code [1] via signal [SIGINT]
+2018-01-18 18:52:28: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:52:28: App name:server id:0 online
+2018-01-18 18:55:21: App [server] with id [0] and pid [2227], exited with code [1] via signal [SIGINT]
+2018-01-18 18:55:21: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:55:21: App name:server id:0 online
+2018-01-18 18:55:22: App [server] with id [0] and pid [2252], exited with code [1] via signal [SIGINT]
+2018-01-18 18:55:22: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-18 18:55:22: App name:server id:0 online
+2018-01-24 16:01:44: Stopping app:server id:0
+2018-01-24 16:01:44: App [server] with id [0] and pid [2267], exited with code [0] via signal [SIGINT]
+2018-01-24 16:01:45: pid=2267 msg=process killed
+2018-01-24 16:01:45: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-24 16:01:45: App name:server id:0 online
+2018-01-26 19:42:09: App [server] with id [0] and pid [20569], exited with code [1] via signal [SIGINT]
+2018-01-26 19:42:09: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-26 19:42:09: App name:server id:0 online
+2018-01-26 19:42:09: App [server] with id [0] and pid [24683], exited with code [1] via signal [SIGINT]
+2018-01-26 19:42:09: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-26 19:42:09: App name:server id:0 online
+2018-01-26 19:42:16: App [server] with id [0] and pid [24698], exited with code [1] via signal [SIGINT]
+2018-01-26 19:42:16: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-26 19:42:16: App name:server id:0 online
+2018-01-26 19:42:17: App [server] with id [0] and pid [24723], exited with code [1] via signal [SIGINT]
+2018-01-26 19:42:17: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-26 19:42:17: App name:server id:0 online
+2018-01-29 21:05:03: App [server] with id [0] and pid [24738], exited with code [1] via signal [SIGINT]
+2018-01-29 21:05:03: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:05:03: App name:server id:0 online
+2018-01-29 21:05:04: App [server] with id [0] and pid [29546], exited with code [1] via signal [SIGINT]
+2018-01-29 21:05:04: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:05:04: App name:server id:0 online
+2018-01-29 21:05:11: App [server] with id [0] and pid [29561], exited with code [1] via signal [SIGINT]
+2018-01-29 21:05:11: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:05:11: App name:server id:0 online
+2018-01-29 21:05:12: App [server] with id [0] and pid [29596], exited with code [1] via signal [SIGINT]
+2018-01-29 21:05:12: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:05:12: App name:server id:0 online
+2018-01-29 21:05:55: App [server] with id [0] and pid [29611], exited with code [1] via signal [SIGINT]
+2018-01-29 21:05:55: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:05:55: App name:server id:0 online
+2018-01-29 21:05:56: App [server] with id [0] and pid [29636], exited with code [1] via signal [SIGINT]
+2018-01-29 21:05:56: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:05:56: App name:server id:0 online
+2018-01-29 21:06:00: App [server] with id [0] and pid [29651], exited with code [1] via signal [SIGINT]
+2018-01-29 21:06:00: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:06:00: App name:server id:0 online
+2018-01-29 21:06:01: App [server] with id [0] and pid [29676], exited with code [1] via signal [SIGINT]
+2018-01-29 21:06:01: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:06:01: App name:server id:0 online
+2018-01-29 21:06:48: App [server] with id [0] and pid [29691], exited with code [1] via signal [SIGINT]
+2018-01-29 21:06:48: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:06:48: App name:server id:0 online
+2018-01-29 21:06:50: App [server] with id [0] and pid [29725], exited with code [1] via signal [SIGINT]
+2018-01-29 21:06:50: Starting execution sequence in -fork mode- for app name:server id:0
+2018-01-29 21:06:50: App name:server id:0 online
+2018-02-01 21:42:46: Stopping app:server id:0
+2018-02-01 21:42:46: App [server] with id [0] and pid [29740], exited with code [0] via signal [SIGINT]
+2018-02-01 21:42:47: pid=29740 msg=process killed
+2018-02-01 21:42:47: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-01 21:42:47: App name:server id:0 online
+2018-02-02 15:10:31: App [server] with id [0] and pid [4390], exited with code [1] via signal [SIGINT]
+2018-02-02 15:10:31: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-02 15:10:31: App name:server id:0 online
+2018-02-02 15:10:32: App [server] with id [0] and pid [6363], exited with code [1] via signal [SIGINT]
+2018-02-02 15:10:32: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-02 15:10:32: App name:server id:0 online
+2018-02-02 15:10:34: App [server] with id [0] and pid [6378], exited with code [1] via signal [SIGINT]
+2018-02-02 15:10:34: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-02 15:10:34: App name:server id:0 online
+2018-02-02 15:10:35: App [server] with id [0] and pid [6393], exited with code [1] via signal [SIGINT]
+2018-02-02 15:10:35: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-02 15:10:35: App name:server id:0 online
+2018-02-05 14:33:08: App [server] with id [0] and pid [6408], exited with code [1] via signal [SIGINT]
+2018-02-05 14:33:08: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:33:08: App name:server id:0 online
+2018-02-05 14:33:09: App [server] with id [0] and pid [10526], exited with code [1] via signal [SIGINT]
+2018-02-05 14:33:09: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:33:09: App name:server id:0 online
+2018-02-05 14:33:14: App [server] with id [0] and pid [10541], exited with code [1] via signal [SIGINT]
+2018-02-05 14:33:14: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:33:14: App name:server id:0 online
+2018-02-05 14:33:14: App [server] with id [0] and pid [10576], exited with code [1] via signal [SIGINT]
+2018-02-05 14:33:14: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:33:14: App name:server id:0 online
+2018-02-05 14:33:35: App [server] with id [0] and pid [10591], exited with code [1] via signal [SIGINT]
+2018-02-05 14:33:35: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:33:35: App name:server id:0 online
+2018-02-05 14:33:36: App [server] with id [0] and pid [10616], exited with code [1] via signal [SIGINT]
+2018-02-05 14:33:36: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:33:36: App name:server id:0 online
+2018-02-05 14:34:12: App [server] with id [0] and pid [10631], exited with code [1] via signal [SIGINT]
+2018-02-05 14:34:12: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:34:12: App name:server id:0 online
+2018-02-05 14:34:13: App [server] with id [0] and pid [10656], exited with code [1] via signal [SIGINT]
+2018-02-05 14:34:13: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:34:13: App name:server id:0 online
+2018-02-05 14:34:40: App [server] with id [0] and pid [10671], exited with code [1] via signal [SIGINT]
+2018-02-05 14:34:40: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:34:40: App name:server id:0 online
+2018-02-05 14:34:42: App [server] with id [0] and pid [10696], exited with code [1] via signal [SIGINT]
+2018-02-05 14:34:42: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:34:42: App name:server id:0 online
+2018-02-05 14:34:44: App [server] with id [0] and pid [10711], exited with code [1] via signal [SIGINT]
+2018-02-05 14:34:44: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:34:44: App name:server id:0 online
+2018-02-05 14:34:45: App [server] with id [0] and pid [10726], exited with code [1] via signal [SIGINT]
+2018-02-05 14:34:45: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:34:45: App name:server id:0 online
+2018-02-05 14:35:04: App [server] with id [0] and pid [10741], exited with code [1] via signal [SIGINT]
+2018-02-05 14:35:04: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:35:04: App name:server id:0 online
+2018-02-05 14:35:05: App [server] with id [0] and pid [10766], exited with code [1] via signal [SIGINT]
+2018-02-05 14:35:05: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-05 14:35:05: App name:server id:0 online
+2018-02-08 16:06:51: Stopping app:server id:0
+2018-02-08 16:06:51: App [server] with id [0] and pid [10781], exited with code [0] via signal [SIGINT]
+2018-02-08 16:06:51: pid=10781 msg=process killed
+2018-02-08 16:10:44: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-08 16:10:44: App name:server id:0 online
+2018-02-08 16:12:37: Stopping app:server id:0
+2018-02-08 16:12:37: App [server] with id [0] and pid [23945], exited with code [0] via signal [SIGINT]
+2018-02-08 16:12:37: pid=23945 msg=process killed
+2018-02-08 16:14:51: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-08 16:14:51: App name:server id:0 online
+2018-02-08 16:16:04: Stopping app:server id:0
+2018-02-08 16:16:04: App [server] with id [0] and pid [24219], exited with code [0] via signal [SIGINT]
+2018-02-08 16:16:04: pid=24219 msg=process killed
+2018-02-08 16:16:08: Starting execution sequence in -fork mode- for app name:server id:0
+2018-02-08 16:16:08: App name:server id:0 online
+2018-02-08 16:17:01: Stopping app:server id:0
+2018-02-08 16:17:01: App [server] with id [0] and pid [24305], exited with code [0] via signal [SIGINT]
+2018-02-08 16:17:01: pid=24305 msg=process killed
+2018-02-08 16:21:38: Starting execution sequence in -fork mode- for app name:jukeserve id:1
+2018-02-08 16:21:38: App name:jukeserve id:1 online
+2018-02-08 16:23:20: Stopping app:jukeserve id:1
+2018-02-08 16:23:20: App [jukeserve] with id [1] and pid [24525], exited with code [0] via signal [SIGINT]
+2018-02-08 16:23:20: pid=24525 msg=process killed
+2018-02-08 16:23:20: Starting execution sequence in -fork mode- for app name:jukeserve id:1
+2018-02-08 16:23:20: App name:jukeserve id:1 online
+2018-02-08 16:24:01: Stopping app:jukeserve id:1
+2018-02-08 16:24:01: App [jukeserve] with id [1] and pid [24911], exited with code [0] via signal [SIGINT]
+2018-02-08 16:24:01: pid=24911 msg=process killed
+2018-02-08 16:24:01: Starting execution sequence in -fork mode- for app name:jukeserve id:1
+2018-02-08 16:24:01: App name:jukeserve id:1 online
+2018-02-08 16:24:59: Stopping app:jukeserve id:1
+2018-02-08 16:24:59: App [jukeserve] with id [1] and pid [24966], exited with code [0] via signal [SIGINT]
+2018-02-08 16:24:59: pid=24966 msg=process killed
+2018-02-08 16:24:59: Starting execution sequence in -fork mode- for app name:jukeserve id:1
+2018-02-08 16:24:59: App name:jukeserve id:1 online
+2018-02-08 16:25:36: Stopping app:jukeserve id:1
+2018-02-08 16:25:36: App [jukeserve] with id [1] and pid [25003], exited with code [0] via signal [SIGINT]
+2018-02-08 16:25:36: pid=25003 msg=process killed
+2018-02-08 16:25:36: Starting execution sequence in -fork mode- for app name:jukeserve id:1
+2018-02-08 16:25:36: App name:jukeserve id:1 online

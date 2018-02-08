@@ -1,0 +1,60 @@
+.input-group-addon {
+    min-width:300px;
+    text-align:left;
+}
+
+.unit{
+    border:1px solid black;
+    height: 10px;
+    width: 10px;
+    display: inline-block;
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.select-unit{
+    border:1px solid black;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+}
+
+.select-unit:hover{
+    border: 1px solid white;
+}
+.unit:hover{
+    border: none;
+}
+
+.unit-red{
+    background-color: red;    
+}
+.unit-blue{
+    background-color: blue;
+}
+.unit-aqua{
+    background-color: aqua;
+}
+.unit-brown{
+    background-color: brown;
+}
+.unit-green{
+    background-color: green;
+}
+.unit-white{
+    background-color: white;
+}
+.unit-purple{
+    background-color: purple;
+}
+.unit-yellow{
+    background-color: yellow;
+}
+.unit-megenta{
+    background-color: magenta;
+}
+.unit-black{
+    background-color: black;
+}
+
+

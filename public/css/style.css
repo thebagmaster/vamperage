@@ -1,0 +1,116 @@
+div {
+opacity:.6;
+}
+.fixedw{
+   min-width:120px;
+   text-align:left;
+ }
+
+#login-form {
+
+}
+
+#logged-form {
+
+}
+
+.hidden{
+  display: none;
+}
+
+.panel-body ul li {
+  cursor:pointer;
+}
+
+.pane-chars div a{
+  cursor:pointer;
+}
+
+.listlevel{
+  width:100%;
+}
+
+.spinner input {
+  text-align: right;
+}
+.input-group-btn-vertical {
+  position: relative;
+  white-space: nowrap;
+  width: 1px;
+  vertical-align: middle;
+  display: table-cell;
+}
+.input-group-btn-vertical > .btn {
+  display: block;
+  float: none;
+  width: 100%;
+  max-width: 100%;
+  margin-left: -1px;
+  position: relative;
+  border-radius: 0;
+  padding: 6.25px;
+}
+.input-group-btn-vertical > .btn:first-child {
+  border-top-right-radius: 4px;
+}
+.input-group-btn-vertical > .btn:last-child {
+  margin-top: -1px;
+  border-bottom-right-radius: 4px;
+}
+.input-group-btn-vertical i{
+  position: absolute;
+  top: 0;
+  left: 4px;
+}
+
+.bubblenumber{
+  width:100px;
+}
+
+.spinner input{
+  display:inline-block;
+}
+
+.ghosts{
+}
+
+.copies{
+  display: table-cell;
+  width:50%;
+}
+
+.plus-btn{
+      border-radius: 0px !important;
+      /*border-top-left-radius: 4px !important;*/
+}
+.minus-btn{
+      border-radius: 0px !important;
+      border-top-right-radius: 4px !important;
+}
+.plus-select{
+      border-radius: 0px !important;
+      /*border-bottom-left-radius: 4px !important;*/
+}
+.minus-select{
+      border-radius: 0px !important;
+      border-bottom-right-radius: 4px !important;
+}
+
+.listlevel div select{
+    height: 200px !important;
+}
+
+.listlevel span {
+      padding: 0px;
+      width: 40px !important;
+      position: relative;
+}
+
+.input-group span div {
+  -ms-transform: rotate(-90deg); /* IE 9 */
+  -webkit-transform: rotate(-90deg); /* Chrome, Safari, Opera */
+  transform: rotate(-90deg);
+  position: absolute;
+  left:0px;
+  right:0px;
+}

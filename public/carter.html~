@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+
+    <head>
+     <title>MY FIRST WEBPAGE</title>  
+     <script src="./bower_components/jquery/dist/jquery.min.js"></script><!-- load jquery -->
+     <link rel="stylesheet" href="./css/carter.css" type="text/css" >
+    <meta charset="utf-8">
+    
+    </head>
+
+    <body>
+    <script src="./js/youtube.js"></script>
+    
+    <h1> HI EVERYONE</h1>
+    <h2> NICK IS THE MAN</h2>
+    <p1>
+        I am testing CSS and HTML because
+    </p1>
+    
+    <p2>
+        I love lamp
+    </p2>
+    <br>
+    <br>
+    <img src= "img/pie.jpg">
+        
+    <br>
+    
+    Variable:
+    <input type= text
+           name= testtext
+           id = testtext />
+        
+    <input type= submit 
+           onclick = myfunction();
+           value = "submit" />
+    
+    <input type= text
+	   name= querytext
+	   id = querytext />
+
+    <input type= submit
+	   onclick = myfunction2();
+	   value = "get" />
+    
+    <br>
+    <br>
+    <input type = text 
+           name = textbox3 
+           id = textbox3 
+           readonly = true />
+
+   
+    <!-- 1. The <iframe> (and video player) will replace this <div> tag. -->
+    <div id="player"></div>
+    <br>
+    <br>
+
+    <div class = "select-unit unit-aqua" color = 1 onclick=pickSelectedColor(this);</div> 
+    <div class = "select-unit unit-blue" color = 2 onclick=pickSelectedColor(this);></div>
+    <div class = "select-unit unit-brown" color = 3 onclick=pickSelectedColor(this);></div>
+    <div class = "select-unit unit-green" color = 4 onclick=pickSelectedColor(this);></div>
+    <div class = "select-unit unit-red" color = 5 onclick=pickSelectedColor(this);></div>
+    <div class = "select-unit unit-white" color = 6 onclick=pickSelectedColor(this);></div>
+    <div class = "select-unit unit-purple" color = 7 onclick=pickSelectedColor(this);></div>
+    <div class = "select-unit unit-yellow" color = 8 onclick=pickSelectedColor(this);></div>
+    <div class = "select-unit unit-megenta" color = 9 onclick=pickSelectedColor(this);></div>
+    <div class = "select-unit unit-black" color = 10 onclick=pickSelectedColor(this);></div>
+
+    <br>
+    </body>
+</html>

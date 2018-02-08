@@ -1,0 +1,183 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="UTF-8">
+	<title>Jukebox</title>
+	<link href="bower_components/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
+	<script src="bower_components/jquery/dist/jquery.js"></script>
+</head>
+<body style="background-color:black;">
+	<div class="container">
+		<br><br>
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="input-group">
+					<span class="input-group-addon">Select Jukebox 🎶:</span>
+					<select class="form-control" id="juke" name="juke" onchange=newVid()></select>
+				</div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="input-group">
+					<span class="input-group-addon">YouTube URL 📺:</span>
+					<input type="text" class="form-control" id="addsong" name="url">
+					<div class="input-group-btn">
+						<input type="button" class="btn btn-default" value="✔ Add" onclick="return addSong();"></input>
+					</div>
+				</div>
+			</div>
+		</div>
+		<br>
+		<div class="row">
+			<div class="col-lg-8 text-center">
+				<input type="button" value="⏭️" class="btn btn-default"
+				onclick="return newVid();" style="position: absolute;" ></input>
+				<div id="player"></div>
+			</div>
+		</div>
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="list-group" id="queue">
+				</div>
+			</div>
+		</div>
+		<br>
+		<div class="row">
+			<div class="col-lg-8">
+				<div class="input-group">
+					<span class="input-group-addon">Select song 🎵 :</span>
+					<select class="form-control" id="songs" name="songs"></select>
+					<div class="input-group-btn">
+						<input type="button" value="➕ Queue" class="btn btn-default" onclick="return addQ();" ></input>
+						<input type="button" value="❌ Delete" class="btn btn-default" onclick="return del();" ></input>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+	<script>
+      var first = true;
+      function getQ(){
+        $.post( "/juke", { juke:$('#juke').val() , func: "getqueue" },
+          function(data){
+            $( "#queue" ).empty();
+            for(var f in data){
+            var name = $('option[qid="'+data[f]['qid']+'"]').val();
+            $( "#queue" ).append( '<a href="#" class="list-group-item">' + name + '</a>\n' );
+            }
+        });
+      }
+
+      function notify(msg){
+        var str = '<div style="position:absolute;" class="alert alert-info"><strong>'+msg+'!</strong></div>';
+        var $str = $(str);
+        $('body').append($str);
+        $str.hide();
+        $str.slideDown();
+        setTimeout(function(){$str.slideUp();},1000);
+        setTimeout(function(){$str.remove();},2000);
+      }
+      function addSong(){
+        $.post( "/juke", { func: "add", url: $('#addsong').val(), juke:$('#juke').val() }, function( data ) {
+          notify(data);          
+          $('#addsong').val(''); 
+          $.post( "/juke", { juke:$('#juke').val() , func: "getsongs" }, function( data ) {
+            $( "#songs" ).empty();
+            for(var f in data)
+              $( "#songs" ).append( '<option qid=' + data[f]['_id'] + '>' + data[f]['name'] + '</option>\n' );
+            getQ(); 
+          });     
+        });
+        return false;
+      }
+
+      function addQ(){
+        var sel = $('#songs').val();
+        var qid = $('option:contains("'+sel+'")').attr('qid');
+        $.post( "/juke", { func: "queue", qid:qid, juke:$('#juke').val()}, function( data ) {
+           notify(data);
+        });
+      }
+
+
+      var tag = document.createElement('script');
+      tag.src = "https://www.youtube.com/iframe_api";
+      var firstScriptTag = document.getElementsByTagName('script')[0];
+      firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+
+      var player;
+      function onYouTubePlayerAPIReady() {
+        player = new YT.Player('player', {
+          height: '450',
+          width: '450',
+          videoId: '',
+          playerVars: { 'autoplay': 1 },
+          events: {
+            'onReady': onPlayerReady,
+            'onStateChange': onPlayerStateChange
+          }
+        });
+      }
+      function onPlayerReady(event) {
+        event.target.playVideo();
+      }
+
+      function onPlayerStateChange(event) {
+        if (event.data == YT.PlayerState.ENDED) {
+          //do shit
+          newVid();
+        }
+      }
+
+      
+      function del() {
+      var sel = $('#songs').val();
+      var qid = $('option:contains("'+sel+'")').attr('qid');
+      $.post( "/juke", {func: "del", qid:qid, juke:$('#juke').val() }, function( data ) {
+      notify(data);
+
+      $.post( "/juke", { juke:$('#juke').val() , func: "getsongs" }, function( data ) {
+		      $( "#songs" ).empty();
+		      for(var f in data)
+		      $( "#songs" ).append( '<option qid=' + data[f]['_id'] + '>' + data[f]['name'] + '</option>\n' );
+		      getQ(); 
+		      });     
+      });
+      }
+
+      
+      function newVid(){
+        $.post( "/juke", { func: "getjukes" }, function( data ) {
+      data = data.split('\n')[2];
+      console.log(data);
+          data = JSON.parse(data);
+          data = data.filter(function(e) { return e !== 'system.indexes' });
+          if ( $('#juke').children().length == 0 )
+            for(var f in data)
+              $( "#juke" ).append( '<option>' + data[f] + '</option>\n' );
+          $('#songjuke').val($('#juke').val());
+
+         if(first)
+           first = false;
+         else
+           $.post( "/juke", { juke:$('#juke').val() , func: "dequeue" }, function( data ) {
+             player.cueVideoById(data['url'], 5, "large");
+             player.playVideo();
+           });
+
+         $.post( "/juke", { juke:$('#juke').val() , func: "getsongs" }, function( data ) {
+      $( "#songs" ).empty();
+            for(var f in data)
+              $( "#songs" ).append( '<option qid=' + data[f]['_id'] + '>' + data[f]['name'] + '</option>\n' );
+            getQ(); 
+            });
+        });  
+      }
+      setTimeout(newVid,1000);
+      setTimeout(function(){
+        setInterval(getQ,1000);
+      },3000);
+    </script>
+  </body>
+</html>

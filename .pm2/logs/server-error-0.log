@@ -1,0 +1,2256 @@
+Thu, 04 Jan 2018 16:03:26 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:80:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read property '0' of undefined
+    at eval (eval at <anonymous> (/home/ubuntu/server.js:48:1), <anonymous>:36:23)
+    at /home/ubuntu/node_modules/monk/lib/collection.js:20:14
+    at <anonymous>
+    at process._tickDomainCallback (internal/process/next_tick.js:228:7)
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property '0' of undefined
+(node:20050) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 6): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 7): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 8): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 9): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 10): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 11): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 12): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 13): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 14): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 15): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 16): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 17): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 18): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 19): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 20): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 21): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 22): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 23): TypeError: Cannot read property '0' of undefined
+(node:20050) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 24): TypeError: Cannot read property '0' of undefined
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Tue, 09 Jan 2018 20:53:48 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:81:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Wed, 10 Jan 2018 16:29:09 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:91:7
+Wed, 10 Jan 2018 16:30:42 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:91:7
+Wed, 10 Jan 2018 16:30:58 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:91:7
+Wed, 10 Jan 2018 16:34:15 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:88:7
+Wed, 10 Jan 2018 16:42:49 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:90:7
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+SyntaxError: missing ) after argument list
+    at Object.<anonymous> (/home/ubuntu/server.js:51:32)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Object.<anonymous> (/home/ubuntu/.nvm/versions/node/v9.0.0/lib/node_modules/pm2/lib/ProcessContainerFork.js:78:21)
+    at Module._compile (module.js:641:30)
+    at Object.Module._extensions..js (module.js:652:10)
+    at Module.load (module.js:560:32)
+    at tryModuleLoad (module.js:503:12)
+    at Function.Module._load (module.js:495:3)
+    at Function.Module.runMain (module.js:682:10)
+    at startup (bootstrap_node.js:191:16)
+    at bootstrap_node.js:613:3
+Wed, 10 Jan 2018 16:55:04 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:90:7
+Wed, 10 Jan 2018 17:02:08 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:91:7
+Wed, 10 Jan 2018 17:46:13 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:99:7
+Wed, 10 Jan 2018 19:16:04 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+Wed, 10 Jan 2018 19:22:08 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read property '0' of undefined
+    at eval (eval at <anonymous> (/home/ubuntu/server.js:48:1), <anonymous>:36:23)
+    at /home/ubuntu/node_modules/monk/lib/collection.js:20:14
+    at <anonymous>
+    at process._tickDomainCallback (internal/process/next_tick.js:228:7)
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property '0' of undefined
+(node:13990) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 6): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 7): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 8): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 9): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 10): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 11): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 12): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 13): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 14): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 15): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 16): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 17): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 18): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 19): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 20): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 21): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 22): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 23): TypeError: Cannot read property '0' of undefined
+(node:13990) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 24): TypeError: Cannot read property '0' of undefined
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 16:20:19 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 16:20:39 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 16:26:19 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 16:44:39 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 17:29:58 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 18:49:27 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 18:50:30 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 18:52:24 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Thu, 18 Jan 2018 18:56:34 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read property '0' of undefined
+    at eval (eval at <anonymous> (/home/ubuntu/server.js:48:1), <anonymous>:36:23)
+    at /home/ubuntu/node_modules/monk/lib/collection.js:20:14
+    at <anonymous>
+    at process._tickDomainCallback (internal/process/next_tick.js:228:7)
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property '0' of undefined
+(node:2267) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 6): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 7): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 8): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 9): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 10): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 11): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 12): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 13): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 14): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 15): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 16): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 17): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 18): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 19): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 20): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 21): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 22): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 23): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 24): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 25): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 26): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 27): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 28): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 29): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 30): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 31): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 32): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 33): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 34): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 35): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 36): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 37): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 38): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 39): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 40): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 41): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 42): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 43): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 44): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 45): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 46): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 47): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 48): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 49): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 50): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 51): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 52): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 53): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 54): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 55): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 56): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 57): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 58): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 59): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 60): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 61): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 62): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 63): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 64): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 65): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 66): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 67): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 68): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 69): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 70): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 71): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 72): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 73): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 74): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 75): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 76): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 77): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 78): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 79): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 80): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 81): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 82): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 83): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 84): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 85): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 86): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 87): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 88): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 89): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 90): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 91): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 92): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 93): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 94): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 95): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 96): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 97): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 98): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 99): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 100): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 101): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 102): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 103): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 104): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 105): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 106): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 107): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 108): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 109): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 110): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 111): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 112): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 113): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 114): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 115): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 116): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 117): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 118): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 119): TypeError: Cannot read property '0' of undefined
+(node:2267) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 120): TypeError: Cannot read property '0' of undefined
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Wed, 24 Jan 2018 16:04:55 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+You have triggered an unhandledRejection, you may have forgotten to catch a Promise rejection:
+TypeError: Cannot read property '0' of undefined
+    at eval (eval at <anonymous> (/home/ubuntu/server.js:48:1), <anonymous>:36:23)
+    at /home/ubuntu/node_modules/monk/lib/collection.js:20:14
+    at <anonymous>
+    at process._tickDomainCallback (internal/process/next_tick.js:228:7)
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 2): TypeError: Cannot read property '0' of undefined
+(node:20569) [DEP0018] DeprecationWarning: Unhandled promise rejections are deprecated. In the future, promise rejections that are not handled will terminate the Node.js process with a non-zero exit code.
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 3): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 4): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 5): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 6): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 7): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 8): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 9): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 10): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 11): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 12): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 13): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 14): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 15): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 16): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 17): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 18): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 19): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 20): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 21): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 22): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 23): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 24): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 25): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 26): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 27): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 28): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 29): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 30): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 31): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 32): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 33): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 34): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 35): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 36): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 37): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 38): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 39): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 40): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 41): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 42): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 43): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 44): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 45): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 46): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 47): TypeError: Cannot read property '0' of undefined
+(node:20569) UnhandledPromiseRejectionWarning: Unhandled promise rejection (rejection id: 48): TypeError: Cannot read property '0' of undefined
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Fri, 26 Jan 2018 19:44:38 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Mon, 29 Jan 2018 23:06:23 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:98:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Thu, 01 Feb 2018 22:21:51 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:104:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Fri, 02 Feb 2018 15:12:15 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:104:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+TypeError: Cannot read property 'snippet' of undefined
+    at Request.eval [as _callback] (eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:7:43)
+    at Request.self.callback (/home/ubuntu/node_modules/request/request.js:188:22)
+    at emitTwo (events.js:135:13)
+    at Request.emit (events.js:224:7)
+    at Request.<anonymous> (/home/ubuntu/node_modules/request/request.js:1171:10)
+    at emitOne (events.js:125:13)
+    at Request.emit (events.js:221:7)
+    at IncomingMessage.<anonymous> (/home/ubuntu/node_modules/request/request.js:1091:12)
+    at Object.onceWrapper (events.js:322:30)
+    at emitNone (events.js:120:20)
+    at IncomingMessage.emit (events.js:218:7)
+    at endReadableNT (_stream_readable.js:1054:12)
+    at _combinedTickCallback (internal/process/next_tick.js:138:11)
+    at process._tickDomainCallback (internal/process/next_tick.js:218:9)
+Mon, 05 Feb 2018 15:17:21 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:104:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Thu, 08 Feb 2018 16:14:57 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:104:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Thu, 08 Feb 2018 16:16:15 GMT express deprecated res.sendfile: Use res.sendFile instead at eval at <anonymous> (/home/ubuntu/server.js:51:1), <anonymous>:104:7
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'
+Error: EACCES: permission denied, stat '/root/public/index.html'

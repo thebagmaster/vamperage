@@ -1,0 +1,76 @@
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/index.html'
+Error: EACCES: permission denied, stat '/root/juke/public/juke.html'
+Error: EACCES: permission denied, stat '/root/juke/public/juke.html'
+Error: EACCES: permission denied, stat '/root/juke/public/juke.html'
+Error: EACCES: permission denied, stat '/root/juke/public/juke.html'
+TypeError: path must be absolute or specify root to res.sendFile
+    at ServerResponse.sendFile (/home/ubuntu/node_modules/express/lib/response.js:404:11)
+    at /home/ubuntu/juke/jukeserve.js:32:7
+    at Layer.handle [as handle_request] (/home/ubuntu/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/ubuntu/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/node_modules/express/lib/router/index.js:277:22
+    at param (/home/ubuntu/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/ubuntu/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/ubuntu/node_modules/express/lib/router/index.js:410:3)
+TypeError: path must be absolute or specify root to res.sendFile
+    at ServerResponse.sendFile (/home/ubuntu/node_modules/express/lib/response.js:404:11)
+    at /home/ubuntu/juke/jukeserve.js:32:7
+    at Layer.handle [as handle_request] (/home/ubuntu/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/ubuntu/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/node_modules/express/lib/router/index.js:277:22
+    at param (/home/ubuntu/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/ubuntu/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/ubuntu/node_modules/express/lib/router/index.js:410:3)
+TypeError: path must be absolute or specify root to res.sendFile
+    at ServerResponse.sendFile (/home/ubuntu/node_modules/express/lib/response.js:404:11)
+    at /home/ubuntu/juke/jukeserve.js:32:7
+    at Layer.handle [as handle_request] (/home/ubuntu/node_modules/express/lib/router/layer.js:95:5)
+    at next (/home/ubuntu/node_modules/express/lib/router/route.js:131:13)
+    at Route.dispatch (/home/ubuntu/node_modules/express/lib/router/route.js:112:3)
+    at Layer.handle [as handle_request] (/home/ubuntu/node_modules/express/lib/router/layer.js:95:5)
+    at /home/ubuntu/node_modules/express/lib/router/index.js:277:22
+    at param (/home/ubuntu/node_modules/express/lib/router/index.js:349:14)
+    at param (/home/ubuntu/node_modules/express/lib/router/index.js:365:14)
+    at Function.process_params (/home/ubuntu/node_modules/express/lib/router/index.js:410:3)
+Error: ENOENT: no such file or directory, stat '/home/ubuntu/juke/public/juke.html'
+Error: ENOENT: no such file or directory, stat '/home/ubuntu/juke/public/juke.html'
